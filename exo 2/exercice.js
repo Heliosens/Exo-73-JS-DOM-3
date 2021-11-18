@@ -3,5 +3,6 @@ let handEl  = document.getElementById("trendy-handwriting");
 let frameEl = document.getElementById("trendy-frame");
 
 colorEl.innerHTML = "blue";
-handEl.innerHTML = "X";
+handEl.innerHTML = "Dark Vador";
 frameEl.style.border = "10px groove orange";
+
